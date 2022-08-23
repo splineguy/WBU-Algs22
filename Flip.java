@@ -1,9 +1,3 @@
-/* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
- **************************************************************************** */
-
 import edu.princeton.cs.algs4.Counter;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
@@ -21,6 +15,6 @@ public class Flip {
         }
         StdOut.println(heads);
         StdOut.println(tails);
-        
+
     }
 }
