@@ -14,8 +14,8 @@ public class BouncingBall {
 
         // initial values
         double rx = 0.480, ry = 0.860;   // position
-        double vx = 0.015, vy = 0.023;   // velocity
-        double radius = 0.05;            // radius
+        double vx = 0.023, vy = 0.023;   // velocity
+        double radius = 0.025;            // radius
 
         // main animation loop
         while (true) {
@@ -31,10 +31,11 @@ public class BouncingBall {
             StdDraw.filledSquare(0, 0, 1.0);
 
             StdDraw.setPenColor(StdDraw.BLACK);
-            StdDraw.filledCircle(rx, ry, radius);
+            StdDraw.filledCircle(rx, ry, radius)
+            ;
 
             StdDraw.show();
-            StdDraw.pause(20);
+            StdDraw.pause(10);
         }
     }
 }
