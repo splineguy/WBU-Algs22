@@ -78,20 +78,26 @@
     <option name="showModules" value="false" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/OneDrive/!Work/!!Classes/!Algorithms/Java Code/Fall 2022/WBU-Algs22",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/OneDrive/!Work/!!Classes/!Algorithms/Java Code/Fall 2022/WBU-Algs22&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Flip">
+}</component>
+  <component name="RunManager" selected="Application.QuickSortCutoff">
     <configuration name="BouncingBall" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BouncingBall" />
       <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Experiment" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Experiment" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2" />
     </configuration>
     <configuration name="Flip" type="Application" factoryName="Application">
@@ -102,6 +108,11 @@
     </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QuickSortCutoff" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="QuickSortCutoff" />
       <module name="Algorithms, Part I" />
       <method v="2" />
     </configuration>
