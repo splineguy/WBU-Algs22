@@ -78,7 +78,6 @@
     <option name="showModules" value="false" />
     <option name="sortByType" value="true" />
   </component>
-<<<<<<< Updated upstream
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -100,31 +99,6 @@
   <component name="RunManager" selected="Application.DrawBST">
     <configuration name="BSTDrawable" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BSTDrawable" />
-=======
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/franklins/Documents/GitHub/WBU-Algs22",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
-  }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\franklins\Documents\GitHub\WBU-Algs22" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.AnimateBST">
-    <configuration name="AnimateBST" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="AnimateBST" />
-      <module name="Algorithms, Part I" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BinaryTree" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="BinaryTree" />
->>>>>>> Stashed changes
       <module name="Algorithms, Part I" />
       <method v="2" />
     </configuration>
@@ -167,11 +141,6 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <method v="2" />
-    </configuration>
-    <configuration name="labs.BSTDrawable" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="labs.BSTDrawable" />
-      <module name="Algorithms, Part I" />
       <method v="2" />
     </configuration>
   </component>
