@@ -78,26 +78,25 @@
     <option name="showModules" value="false" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/OneDrive/!Work/!!Classes/!Algorithms/Java Code/Fall 2022/WBU-Algs22&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/OneDrive/!Work/!!Classes/!Algorithms/Java Code/Fall 2020",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.OurHeapSortDemo">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\!Work\!!Classes\!Algorithms\Java Code\Fall 2022\WBU-Algs22" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RandomLetters">
     <configuration name="BouncingBall" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BouncingBall" />
       <module name="Algorithms, Part I" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Experiment" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Experiment" />
-      <module name="Algorithms, Part I" />
-      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2" />
     </configuration>
     <configuration name="Flip" type="Application" factoryName="Application">
@@ -111,14 +110,16 @@
       <module name="Algorithms, Part I" />
       <method v="2" />
     </configuration>
-    <configuration name="OurHeapSortDemo" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="OurHeapSortDemo" />
+    <configuration name="MyJosephus" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MyJosephus" />
       <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="7 2" />
       <method v="2" />
     </configuration>
-    <configuration name="QuickSortCutoff" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="QuickSortCutoff" />
+    <configuration name="RandomLetters" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomLetters" />
       <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="30" />
       <method v="2" />
     </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application">
