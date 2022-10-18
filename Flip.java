@@ -10,7 +10,7 @@ public class Flip {
         int n = Integer.parseInt(args[0]);
 
         for (int i = 0; i < n; i++) {
-            if (StdRandom.uniformInt(2) == 0) heads.increment();
+            if (StdRandom.uniform(2) == 0) heads.increment();
             else tails.increment();
         }
         StdOut.println(heads);
