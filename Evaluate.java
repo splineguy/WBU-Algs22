@@ -10,13 +10,22 @@ public class Evaluate {
             String s = StdIn.readString();
             if (s.equals("(")) ;
             else if (s.equals("+")) ops.push(s);
+            else if (s.equals("-")) ops.push(s);
             else if (s.equals("*")) ops.push(s);
+            else if (s.equals("/")) ops.push(s);
+            else if (s.equals("sqrt")) ops.push(s);
             else if (s.equals(")")) {
                 String op = ops.pop();
-                if (op.equals("+")) vals.push(vals.pop() + vals.pop());
-                else if (op.equals("*")) vals.push(vals.pop() * vals.pop());
+                double v = vals.pop();
+                if (op.equals("+")) vals.push(vals.pop() + v);
+                else if (op.equals("-")) vals.push(vals.pop() - v);
+                else if (op.equals("*")) vals.push(vals.pop() * v);
+                else if (op.equals("/")) vals.push(vals.pop() / v);
+                else if (op.equals("sqrt")) vals.push(Math.sqrt(v));
             }
             else vals.push(Double.parseDouble(s));
+            StdOut.println(ops);
+            StdOut.println(vals);
         }
         StdOut.println(vals.pop());
     }
