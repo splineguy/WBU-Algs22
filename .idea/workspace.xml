@@ -44,6 +44,65 @@
     </configuration>
     <configuration name="GraphTest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="GraphTest" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/!Work/!!Classes/!Algorithms/Java Code/Fall 2020&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\!Work\!!Classes\!Algorithms\Java Code\Fall 2022\WBU-Algs22" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\OneDrive\!Work\!!Classes\!Algorithms\Java Code\Fall 2022\WBU-Algs22" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DrawBST">
+    <configuration name="BSTDrawable" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BSTDrawable" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BouncingBall" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BouncingBall" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DrawBST" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DrawBST" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flip" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Flip" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="100000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyJosephus" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MyJosephus" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="7 2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomLetters" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomLetters" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="30" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
       <module name="Algorithms, Part I" />
       <option name="PROGRAM_PARAMETERS" value="tinyG.txt" />
       <method v="2" />
